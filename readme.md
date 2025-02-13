@@ -51,7 +51,7 @@ Os seguintes componentes, já interconectados à placa BitDogLab, foram utilizad
 
 ## Demonstração
 
-**🎥[Clique para assistir o vídeo](youtube.com)**
+**🎥[Clique para assistir o vídeo](https://youtu.be/BKWQ9z1pGeY)**
 
 ## Considerações Finais
 Este projeto foi uma excelente oportunidade para consolidar conhecimentos em:
